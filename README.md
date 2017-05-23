@@ -13,16 +13,16 @@ As the playoffs unfold, many family members are interested to know whether they 
 ### To run
 
 ```bash
-python hockey-analysis.py 201x
+python hockey-analysis.py year
 ```
 
-I include example input files for 2013 and 2017, with anonymized participants data `pool_201x.txt` and results data `results_201x.txt`.
+I include example input files for 2013 and 2017, with anonymized participants data `pool_year.txt` and results data `results_year.txt`.
 
 
 ### Participants data format
 
 The organizer of the competition provides an Excel spreadsheet, so to create the participants data file each year, one needs to
-1. export the spreadsheet to txt format, 
+1. export the spreadsheet to tab-separated txt format,
 1. add "$ " in front of lines with participants' names, and
 1. add "#end" at the end so that input validation is run on the last block of participants data.
 

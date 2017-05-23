@@ -17,7 +17,7 @@ from optparse import OptionParser
 ## Error functions
 
 def usage():
-    print 'Usage: python hockey-analysis.py 201x'
+    print 'Usage: python hockey-analysis.py year'
     exit()
 
 def error(message):
