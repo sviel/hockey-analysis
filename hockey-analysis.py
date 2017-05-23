@@ -136,7 +136,7 @@ for line in lines:
             else:
                 pools[names[i]].append(team)
 
-    elif line.startswith('#') or line.startswith('$'):
+    elif line.startswith('#end') or line.startswith('$'):
         ## Verify the number of teams in each pool of the previous list
         if names:
             for name in names:
