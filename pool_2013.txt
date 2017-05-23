@@ -1,0 +1,133 @@
+$ Marcella	Bob	Louis	Krissy	Peggy	Brad	Jack	Nora	Kevin
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Ottawa	Montreal			
+Washington	Washington	Washington	Washington	Washington	Rangers	Washington	Washington	Washington			
+Boston	Boston	Boston	Boston	Boston	Boston	Boston	Boston	Boston			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago			
+Detroit	Detroit	Anaheim	Anaheim	Anaheim	Detroit	Anaheim	Anaheim	Anaheim			
+San Jose	San Jose	Vancouver	Vancouver	San Jose	San Jose	Vancouver	San Jose	Vancouver			
+St Louis	Los Angeles	Los Angeles	St Louis	St Louis	St Louis	St Louis	St Louis	St Louis			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Washington	Washington			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago			
+St Louis	Los Angeles	Anaheim	Anaheim	Anaheim	St Louis	Vancouver	St Louis	Anaheim			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+											
+											
+$ Nigel	Ted	Cecilia	Rosaline	Marian	Helen	Ida	Lilly	Yves
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Ottawa	Ottawa	Ottawa	Ottawa	Montreal	Montreal	Ottawa	Montreal	Montreal			
+Rangers	Washington	Washington	Washington	Rangers	Washington	Washington	Washington	Rangers			
+Boston	Boston	Boston	Boston	Boston	Boston	Boston	Boston	Boston			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago			
+Anaheim	Anaheim	Detroit	Detroit	Anaheim	Anaheim	Anaheim	Anaheim	Detroit			
+San Jose	San Jose	Vancouver	San Jose	Vancouver	Vancouver	San Jose	San Jose	San Jose			
+St Louis	St Louis	St Louis	St Louis	Los Angeles	St Louis	St Louis	St Louis	St Louis			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Boston	Boston	Boston	Boston	Boston	Montreal	Washington	Washington	Boston			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Detroit			
+St Louis	St Louis	Vancouver	St Louis	Anaheim	Anaheim	Anaheim	Anaheim	San Jose			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Chicago	Chicago	Chicago	Chicago	Chicago	Anaheim	Anaheim	Anaheim	Detroit			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+											
+											
+$ Samira	Molly	Chris	Ashley	Noemi	Diana	Harry 	Camilla	Kyle
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh			
+Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Ottawa	Ottawa	Montreal			
+Washington	Washington	Rangers	Rangers	Washington	Washington	Washington	Washington	Rangers			
+Toronto	Boston	Boston	Boston	Boston	Boston	Toronto	Boston	Toronto			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago			
+Anaheim	Anaheim	Detroit	Detroit	Anaheim	Anaheim	Detroit	Detroit	Anaheim			
+Vancouver	Vancouver	Vancouver	Vancouver	San Jose	San Jose	Vancouver	Vancouver	San Jose			
+Los Angeles	St Louis	Los Angeles	Los Angeles	Los Angeles	St Louis	St Louis	Los Angeles	Los Angeles			
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Rangers			
+Montreal	Montreal	Montreal	Montreal	Washington	Washington	Washington	Washington	Toronto			
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Detroit	Chicago			
+Anaheim	Anaheim	Vancouver	Vancouver	Los Angeles	St Louis	St Louis	Vancouver	Anaheim			
+											
+Montreal	Montreal	Montreal	Montreal	Washington	Washington	Washington	Washington	Toronto			
+Anaheim	Chicago	Chicago	Vancouver	Chicago	Chicago	St Louis	Vancouver	Chicago			
+											
+Montreal	Montreal	Montreal	Montreal	Washington	Washington	Washington	Washington	Toronto			
+											
+											
+$ Miguel	Hadrian	Jules	Theodore	Giuseppe	Maria	Luther	Blanche
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh				
+Ottawa	Montreal	Ottawa	Montreal	Montreal	Montreal	Montreal	Montreal				
+Washington	Rangers	Rangers	Washington	Washington	Rangers	Rangers	Rangers				
+Boston	Boston	Boston	Boston	Boston	Boston	Boston	Boston				
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago				
+Detroit	Anaheim	Detroit	Detroit	Anaheim	Detroit	Detroit	Detroit				
+Vancouver	Vancouver	San Jose	San Jose	Vancouver	Vancouver	San Jose	Vancouver				
+Los Angeles	St Louis	Los Angeles	Los Angeles	Los Angeles	St Louis	St Louis	Los Angeles				
+											
+Pittsburgh	Rangers	Pittsburgh	Boston	Boston	Pittsburgh	Boston	Pittsburgh				
+Boston	Boston	Boston	Washington	Washington	Boston	Rangers	Montreal				
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago				
+Vancouver	Vancouver	Los Angeles	Los Angeles	Anaheim	St Louis	St Louis	Los Angeles				
+											
+Boston	Boston	Boston	Boston	Boston	Boston	Boston	Montreal				
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago				
+											
+Boston	Boston	Boston	Boston	Chicago	Chicago	Chicago	Chicago				
+											
+											
+$ Charmaine	John	Karyna	Aurelia	David	Britney	Megan	Margaret	Forest	Miriam	Kayla	Anita
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh
+Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Ottawa	Ottawa	Montreal
+Washington	Washington	Washington	Washington	Rangers	Rangers	Washington	Washington	Rangers	Washington	Washington	Washington
+Boston	Boston	Boston	Boston	Boston	Boston	Boston	Toronto	Toronto	Boston	Boston	Boston
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago
+Anaheim	Anaheim 	Anaheim	Anaheim 	Anaheim	Anaheim	Anaheim	Detroit	Anaheim	Anaheim	Detroit	Detroit
+Vancouver	Vancouver	Vancouver	San Jose	San Jose	San Jose	San Jose	San Jose 	Vancouver	Vancouver	Vancouver	Vancouver
+St Louis	St Louis	Los Angeles	Los Angeles	Los Angeles	St Louis	St Louis	Los Angeles	Los Angeles	Los Angeles	Los Angeles	Los Angeles
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh
+Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Montreal	Toronto	Boston	Boston	Washington
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago
+Anaheim	Anaheim 	Anaheim	Anaheim 	Anaheim	Anaheim	St Louis	Los Angeles	Anaheim	Anaheim	Los Angeles	Vancouver
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago
+											
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago
+											
+											
+$ Alexa	Evelin	Jonah	Jesse	Joannie	William	Magdalena	Ramona	Karla	Orlando	Courtney
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Islanders	
+Montreal	Ottawa	Ottawa	Montreal	Montreal	Montreal	Montreal	Montreal	Ottawa	Montreal	Montreal	
+Rangers	Rangers	Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington	Rangers	
+Toronto	Boston	Boston	Boston	Boston	Toronto	Boston	Boston	Toronto	Boston	Toronto	
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Minnesota	Chicago	
+Anaheim	Anaheim	Anaheim	Detroit	Anaheim	Detroit	Detroit	Detroit	Detroit	Detroit	Detroit	
+San Jose	San Jose	Vancouver	Vancouver	Vancouver	Vancouver	Vancouver	Vancouver	San Jose	Vancouver	Vancouver	
+Los Angeles	Los Angeles	St Louis	St Louis	Los Angeles	Los Angeles	St Louis	Los Angeles	St Louis	St Louis	Los Angeles	
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Boston	Boston	Pittsburgh	Pittsburgh	Montreal	
+Toronto	Boston	Boston	Washington	Washington	Montreal	Montreal	Montreal	Washington	Montreal	Rangers	
+Anaheim	San Jose	Chicago	Chicago	Chicago	Chicago	Detroit	Detroit	Chicago	Minnesota	Detroit	
+San Jose	Anaheim	Vancouver	Vancouver	Vancouver	Vancouver	St Louis	Los Angeles	San Jose	Detroit	Vancouver	
+											
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Montreal	Boston	Montreal	Washington	Pittsburgh	Montreal	
+Anaheim	Anaheim	Vancouver	Vancouver	Vancouver	Vancouver	St Louis	Los Angeles	San Jose	Detroit	Detroit	
+											
+Anaheim	Anaheim	Vancouver	Vancouver	Vancouver	Vancouver	St Louis	Los Angeles	San Jose	Detroit	Detroit	
+
+
+#end

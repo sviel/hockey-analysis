@@ -1,0 +1,36 @@
+Montreal
+New York
+Ottawa
+Boston
+Washington
+Toronto
+Pittsburgh
+Columbus
+Chicago
+Nashville
+Minnesota
+St Louis
+Anaheim
+Calgary
+Edmonton
+San Jose
+
+New York
+Ottawa
+Washington
+Pittsburgh
+Nashville
+St Louis
+Anaheim
+Edmonton
+
+x
+x
+x
+x
+
+x
+x
+
+x
+

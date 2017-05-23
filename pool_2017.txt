@@ -1,0 +1,155 @@
+$ Marcella	Bob	Louis	Krissy	Peggy	Brad	Jack	Nora	Kevin
+								
+Montreal	Montreal	Montreal	Montreal	New York	Montreal	New York	Montreal	Montreal
+Ottawa	Boston	Boston	Boston	Boston	Boston	Boston	Boston	Boston
+Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Columbus	Columbus	Pittsburgh	Pittsburgh
+Chicago	Chicago	Chicago	Chicago	Nashville	Chicago	Chicago	Chicago	Chicago
+Minnesota	Minnesota	St Louis	Minnesota	Minnesota	St Louis	Minnesota	St Louis	St Louis
+Calgary	Calgary	Anaheim	Anaheim	Anaheim	Anaheim	Calgary	Anaheim	Calgary
+Edmonton	Edmonton	San Jose	Edmonton	Edmonton	San Jose	Edmonton	Edmonton	Edmonton
+								
+Montreal	Montreal	Montreal	Montreal	Boston	Montreal	Boston	Boston	Montreal
+Washington	Washington	Pittsburgh	Washington	Washington	Washington	Washington	Pittsburgh	Washington
+Chicago	Chicago	Chicago	Chicago	Minnesota	Chicago	Chicago	Chicago	Chicago
+Edmonton	Edmonton	San Jose	Edmonton	Anaheim	San Jose	Edmonton	Edmonton	Calgary
+								
+Montreal	Washington	Pittsburgh	Washington	Washington	Washington	Boston	Boston	Washington
+Chicago	Chicago	San Jose	Chicago	Anaheim	Chicago	Chicago	Chicago	Chicago
+								
+Montreal	Chicago	San Jose	Washington	Washington	Chicago	Boston	Chicago	Washington
+								
+								
+$ Nigel	Ted	Cecilia	Rosaline	Marian	Helen	Ida	Lilly	Yves
+								
+Montreal	Montreal	New York	New York	Montreal	Montreal	New York	Montreal	New York
+Boston	Boston	Boston	Ottawa	Boston	Boston	Boston	Boston	Ottawa
+Washington	Toronto	Washington	Washington	Washington	Washington	Washington	Toronto	Washington
+Pittsburgh	Pittsburgh	Columbus	Pittsburgh	Columbus	Pittsburgh	Pittsburgh	Pittsburgh	Columbus
+Chicago	Nashville	Chicago	Chicago	Chicago	Chicago	Chicago	Nashville	Chicago
+Minnesota	St Louis	Minnesota	St Louis	Minnesota	St Louis	Minnesota	St Louis	Minnesota
+Anaheim	Anaheim	Anaheim	Anaheim	Calgary	Calgary	Anaheim	Anaheim	Anaheim
+San Jose	Edmonton	Edmonton	San Jose	San Jose	Edmonton	San Jose	Edmonton	Edmonton
+								
+Boston	Montreal	Boston	Ottawa	Montreal	Montreal	New York	Montreal	New York
+Pittsburgh	Pittsburgh	Washington	Washington	Washington	Pittsburgh	Washington	Pittsburgh	Washington
+Chicago	Nashville	Chicago	Chicago	Minnesota	Chicago	Minnesota	St Louis	Chicago
+Anaheim	Edmonton	Edmonton	Anaheim	San Jose	Edmonton	Anaheim	Anaheim	Anaheim
+								
+Pittsburgh	Montreal	Washington	Washington	Washington	Pittsburgh	Washington	Pittsburgh	Washington
+Anaheim	Nashville	Chicago	Chicago	Minnesota	Chicago	Minnesota	St Louis	Chicago
+								
+Anaheim	Montreal	Washington	Chicago	Washington	Chicago	Washington	Pittsburgh	Washington
+								
+								
+$ Samira	Molly	Chris	Ashley	Noemi	Diana	Harry 	Camilla	Kyle
+								
+Montreal	Montreal	New York	New York	Montreal	Montreal	Montreal	Montreal	Montreal
+Ottawa	Boston	Boston	Boston	Ottawa	Boston	Ottawa	Boston	Boston
+Washington	Washington	Washington	Toronto	Toronto	Toronto	Washington	Toronto	Toronto
+Columbus	Pittsburgh	Pittsburgh	Pittsburgh	Columbus	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago
+Minnesota	St Louis	St Louis	Minnesota	Minnesota	St Louis	St Louis	Minnesota	St Louis
+Anaheim	Anaheim	Calgary	Calgary	Calgary	Calgary	Anaheim	Anaheim	Anaheim
+Edmonton	San Jose	San Jose	Edmonton	Edmonton	San Jose	San Jose	Edmonton	San Jose
+								
+Montreal	Montreal	New York	Boston	Montreal	Boston	Ottawa	Boston	Montreal
+Washington	Pittsburgh	Pittsburgh	Pittsburgh	Columbus	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh
+Chicago	Chicago	Chicago	Chicago	Minnesota	Chicago	Chicago	Chicago	St Louis
+Edmonton	Anaheim	San Jose	Calgary	Edmonton	San Jose	San Jose	Edmonton	San Jose
+								
+Washington	Montreal	Pittsburgh	Pittsburgh	Columbus	Pittsburgh	Pittsburgh	Pittsburgh	Montreal
+Chicago	Chicago	San Jose	Calgary	Minnesota	Chicago	Chicago	Chicago	St Louis
+								
+Washington	Montreal	San Jose	Calgary	Minnesota	Chicago	Pittsburgh	Pittsburgh	St Louis
+								
+								
+$ Miguel	Hadrian	Jules	Theodore	Giuseppe	Maria	Luther	Blanche	Miriam
+								
+New York	Montreal	Montreal	New York	Montreal	Montreal	Montreal	Montreal	New York
+Ottawa	Ottawa	Boston	Ottawa	Boston	Boston	Boston	Boston	Ottawa
+Washington	Washington	Washington	Toronto	Washington	Washington	Washington	Washington	Washington
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Columbus
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Nashville
+Minnesota	St Louis	Minnesota	Minnesota	Minnesota	St Louis	Minnesota	Minnesota	Minnesota
+Anaheim	Anaheim	Calgary	Anaheim	Anaheim	Anaheim	Calgary	Calgary	Calgary
+Edmonton	San Jose	Edmonton	Edmonton	Edmonton	Edmonton	Edmonton	Edmonton	Edmonton
+								
+Ottawa	Montreal	Boston	New York	Montreal	Montreal	Montreal	Boston	New York
+Washington	Washington	Washington	Pittsburgh	Pittsburgh	Washington	Pittsburgh	Washington	Washington
+Chicago	Chicago	Chicago	Minnesota	Chicago	Chicago	Chicago	Chicago	Minnesota
+Anaheim	San Jose	Edmonton	Edmonton	Edmonton	Edmonton	Edmonton	Calgary	Edmonton
+								
+Washington	Washington	Washington	New York	Pittsburgh	Washington	Montreal	Boston	Washington
+Chicago	Chicago	Chicago	Minnesota	Edmonton	Chicago	Chicago	Chicago	Minnesota
+								
+Washington	Washington	Washington	New York	Pittsburgh	Washington	Montreal	Boston	Minnesota
+								
+								
+$ Charmaine	John	Karyna	Aurelia	David	Britney	Megan	Margaret	Forest
+								
+Montreal	Montreal	Montreal	Montreal	New York	Montreal	Montreal	Montreal	Montreal
+Boston	Boston	Ottawa	Boston	Ottawa	Ottawa	Boston	Boston	Ottawa
+Toronto	Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington
+Pittsburgh	Columbus	Pittsburgh	Pittsburgh	Pittsburgh	Columbus	Pittsburgh	Columbus	Pittsburgh
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Nashville	Chicago	Chicago
+St Louis	St Louis	St Louis	St Louis	Minnesota	Minnesota	St Louis	Minnesota	Minnesota
+Calgary	Anaheim	Anaheim	Anaheim	Anaheim	Calgary	Anaheim	Calgary	Calgary
+Edmonton	Edmonton	San Jose	Edmonton	San Jose	Edmonton	San Jose	San Jose	Edmonton
+								
+Montreal	Montreal	Montreal	Montreal	New York	Montreal	Montreal	Boston	Montreal
+Pittsburgh	Washington	Pittsburgh	Pittsburgh	Washington	Washington	Pittsburgh	Columbus	Washington
+St Louis	Chicago	Chicago	Chicago	Chicago	Chicago	Nashville	Minnesota	Chicago
+Calgary	Anaheim	Anaheim	Anaheim	Anaheim	Edmonton	Anaheim	Calgary	Calgary
+								
+Montreal	Washington	Pittsburgh	Pittsburgh	Washington	Montreal	Montreal	Columbus	Washington
+St Louis	Chicago	Chicago	Chicago	Chicago	Chicago	Anaheim	Minnesota	Chicago
+								
+St Louis	Chicago	Pittsburgh	Pittsburgh	Chicago	Montreal	Montreal	Columbus	Washington
+								
+								
+$ Alexa	Evelin	Jonah	Jesse	Joannie	William	Magdalena	Ramona	Karla
+								
+New York	Montreal	Montreal	New York	Montreal	Montreal	Montreal	Montreal	Montreal
+Boston	Ottawa	Boston	Boston	Ottawa	Boston	Boston	Ottawa	Ottawa
+Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington
+Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh	Pittsburgh
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Nashville	Chicago
+St Louis	Minnesota	Minnesota	St Louis	St Louis	Minnesota	St Louis	Minnesota	St Louis
+Anaheim	Anaheim	Anaheim	Anaheim	Anaheim	Anaheim	Anaheim	Anaheim	Anaheim
+Edmonton	Edmonton	San Jose	Edmonton	Edmonton	San Jose	San Jose	San Jose	San Jose
+								
+New York	Montreal	Montreal	Boston	Montreal	Montreal	Montreal	Montreal	Montreal
+Washington	Washington	Washington	Pittsburgh	Pittsburgh	Pittsburgh	Washington	Pittsburgh	Washington
+Chicago	Chicago	Minnesota	Chicago	Chicago	Chicago	Chicago	Minnesota	Chicago
+Anaheim	Anaheim	San Jose	Anaheim	Edmonton	San Jose	Anaheim	San Jose	San Jose
+								
+Washington	Washington	Washington	Pittsburgh	Pittsburgh	Montreal	Washington	Montreal	Washington
+Chicago	Chicago	Minnesota	Anaheim	Edmonton	Chicago	Chicago	San Jose	San Jose
+								
+Chicago	Washington	Washington	Anaheim	Pittsburgh	Chicago	Washington	San Jose	San Jose
+								
+								
+$ Orlando	Courtney	Kayla	Garrett	Joyce	Anita	Seth	Lolita	
+								
+Montreal	Montreal	New York	New York	Montreal	Montreal	Montreal	Montreal	
+Boston	Ottawa	Boston	Boston	Ottawa	Ottawa	Ottawa	Ottawa	
+Washington	Washington	Washington	Washington	Washington	Washington	Washington	Washington	
+Pittsburgh	Columbus	Pittsburgh	Columbus	Pittsburgh	Columbus	Pittsburgh	Columbus	
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	
+Minnesota	Minnesota	Minnesota	Minnesota	St Louis	St Louis	St Louis	St Louis	
+Anaheim	Anaheim	Anaheim	Anaheim	Calgary	Anaheim	Anaheim	Anaheim	
+Edmonton	Edmonton	San Jose	Edmonton	Edmonton	San Jose	San Jose	San Jose	
+								
+Montreal	Montreal	New York	New York	Montreal	Montreal	Montreal	Montreal	
+Washington	Washington	Washington	Washington	Washington	Washington	Pittsburgh	Washington	
+Chicago	Chicago	Chicago	Chicago	Chicago	Chicago	St Louis	Chicago	
+Anaheim	Anaheim	San Jose	Edmonton	Edmonton	San Jose	San Jose	San Jose	
+								
+Washington	Washington	Washington	Washington	Montreal	Washington	Pittsburgh	Washington	
+Chicago	Anaheim	San Jose	Chicago	Edmonton	Chicago	San Jose	Chicago	
+								
+Washington	Anaheim	San Jose	Chicago	Montreal	Washington	Pittsburgh	Washington	
+
+
+#end
